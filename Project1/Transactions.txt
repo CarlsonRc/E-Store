@@ -1,0 +1,20 @@
+220129221358| 47831 | "8x10 picture frame" | $4.95 | 15% | $63.36 | Sat Jan 29 13:58:34 EST 2022
+220129221358| 1111 | "Top Secret Twenty One - Janet Evanovich" | $8.99 | 5% | $40.455000000000005 | Sat Jan 29 13:58:34 EST 2022
+220129221358| 387 | "Brachs butterscotch hard candy - 1 lb" | $4.5 | 10% | $42.075 | Sat Jan 29 13:58:34 EST 2022
+220129221358| 14 | "Stanley #2 Philips Screwdriver" | $6.95 | 0% | $20.85 | Sat Jan 29 13:58:34 EST 2022
+220129221358| 23 | "Tamiya 2oz paint - ferrari red" | $2.39 | 15% | $43.976000000000006 | Sat Jan 29 13:58:34 EST 2022
+220129221400| 198 | "Box of 10 Sharpie Roller 0.5mm" | $6.5 | 10% | $66.3 | Sat Jan 29 14:00:15 EST 2022
+220129221400| 2190 | "Hefty 30 gal with handles - box 40" | $19.0 | 0% | $57.0 | Sat Jan 29 14:00:15 EST 2022
+220129221400| 3451 | "Oakley Jawbreaker sunglasses" | $236.0 | 5% | $1486.8 | Sat Jan 29 14:00:15 EST 2022
+220129221400| 2190 | "Hefty 30 gal with handles - box 40" | $19.0 | 0% | $38.0 | Sat Jan 29 14:00:15 EST 2022
+220129221401| 228865X | "3M Super 33+ electrical tape box 10" | $32.5 | 0% | $130.0 | Sat Jan 29 14:01:30 EST 2022
+220129221401| 286934 | "1 lb - coffee beans" | $6.5 | 15% | $88.4 | Sat Jan 29 14:01:30 EST 2022
+220129221401| 14 | "Stanley #2 Philips Screwdriver" | $6.95 | 5% | $31.275 | Sat Jan 29 14:01:30 EST 2022
+220129221401| 4762 | "HP copy paper ultra white - ream" | $13.5 | 0% | $40.5 | Sat Jan 29 14:01:30 EST 2022
+220129221401| 3451 | "Oakley Jawbreaker sunglasses" | $236.0 | 0% | $236.0 | Sat Jan 29 14:01:30 EST 2022
+220129221403| 198 | "Box of 10 Sharpie Roller 0.5mm" | $6.5 | 15% | $83.2 | Sat Jan 29 14:03:12 EST 2022
+220129221403| 14 | "Stanley #2 Philips Screwdriver" | $6.95 | 15% | $111.2 | Sat Jan 29 14:03:12 EST 2022
+220129221403| 387 | "Brachs butterscotch hard candy - 1 lb" | $4.5 | 15% | $57.6 | Sat Jan 29 14:03:36 EST 2022
+220129221403| 67913 | "Gios Torino t-shirt size XXL" | $25.0 | 10% | $255.0 | Sat Jan 29 14:03:36 EST 2022
+220129221404| 14 | "Stanley #2 Philips Screwdriver" | $6.95 | 0% | $6.95 | Sat Jan 29 14:04:25 EST 2022
+220316221528| 198 | "Box of 10 Sharpie Roller 0.5mm" | $6.5 | 15% | $1029.6 | Wed Mar 16 15:28:19 EDT 2022
